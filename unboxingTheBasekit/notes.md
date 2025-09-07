@@ -1,1 +1,1 @@
-
+notes about the project
